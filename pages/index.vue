@@ -1,31 +1,10 @@
 <template>
-<div class="container">
-    <div>
-      <logo />
-      <h1 class="title">
-      </h1>
-      <body><iframe width="100%" height="100%" src="https://setraining.sisensepoc.com/app/main#/dashboards/6026cd1c1e3667002d9517aa/widgets/6026cd1c1e3667002d9517ab?embed=true"></iframe> </body>
-      <h2 class="subtitle">
-        My astonishing Nuxt.js project
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
-  </div>
+<head>
+	<img width="100%" height="100%" src="https://a.espncdn.com/photo/2021/0128/ncaa_varying-states-bracketology_v1_1296x729.jpg" >
+	<body>
+<iframe width="100%" height="100%" src="https://setraining.sisensepoc.com/app/main#/dashboards/6026cd1c1e3667002d9517aa?embed=true"></iframe>
+	</body>
+</head>
 </template>
 
 <script>
