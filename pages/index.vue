@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        HELLO THERE
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/FBM4cdml6Qs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </h1>
       <h2 class="subtitle">
         My astonishing Nuxt.js project
