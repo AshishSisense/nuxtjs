@@ -3,7 +3,6 @@
     <div>
       <logo />
       <h1 class="title">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/FBM4cdml6Qs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <iframe width="100%" height="100%" src="https://setraining.sisensepoc.com/app/main#/dashboards/6026cd1c1e3667002d9517aa/widgets/6026cd1c1e3667002d9517ab?embed=true"></iframe>
       </h1>
       <h2 class="subtitle">
