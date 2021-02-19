@@ -3,28 +3,8 @@
     <div>
       <logo />
       <h1 class="title">
-       <iframe width="560" height="360%" src="https://setraining.sisensepoc.com/app/main#/dashboards/6026cd1c1e3667002d9517aa/widgets/6026cd1c1e3667002d9517ab?embed=true"></iframe>
+       <iframe width="100%" height="100%" src="https://setraining.sisensepoc.com/app/main#/dashboards/6026cd1c1e3667002d9517aa/widgets/6026cd1c1e3667002d9517ab?embed=true"></iframe>
       </h1>
-      <h2 class="subtitle">
-        My astonishing Nuxt.js project
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
   </div>
 </template>
 
